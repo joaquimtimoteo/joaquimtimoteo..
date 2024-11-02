@@ -1,20 +1,51 @@
-# Data Scientist
+# Senior Software Engineer & Data Scientist  
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Expertise Python, SQL, AWS, API , Docker, R , Redis
 
 ## Education
+
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- Ph.D., Physics | The University of Texas at Dallas (_May2022_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.S., Information security & cibernetic| The Moscow Technical University of Communications and Informatics (_May 2017_)
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Senior Data Scientist @ Reborntechnology Services (_June 2023 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- I created Advanced Machine Learning Model: Model with 80% accuracy for predicting sports events, 2024 – Present providing a powerful tool for accurate insights into sports outcomes(Reborn Bet)
+
+- xboot: I launched an intelligent bot that automates various processes on Instagram, Facebook, and
+WhatsApp. Utilizing advanced AI technologies and machine learning models such as LSTM, CNN, and
+BERT scaling it to support over 3,000 active users
+
+- Reborn VPN: I developed a robust and reliable VPN designed to ensure online security and privacy
+for our clients
+
+**Data Science Consultant @ Nvidia Partner (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- I integrated NVIDIA GPUs into our existing machine learning pipeline, which resulted in a 3x increase in training speed for our deep learning models.
+- I leveraged NVIDIA CUDA and TensorRT for model inference.
+- I developed a machine learning-based recommendation engine for an e-commerce platform Development of Algorithms and Predictive Models
+- I created a machine learning solution to detect fraudulent transactions
+- I designed a predictive maintenance algorithm for manufacturing equipment, which decreased
+unplanned downtime by 35% and reduced maintenance costs by 20%.
+
+**Full Stack Developer  @ IVipCoin (_December 2021 - 2023_)**
+
+- Development and Implementation of Backend Solutions
+- Integration of APIs and Services: Development of APIs and services for
+- integration with external systems, such as Binance and Ethereum APIs,
+supporting essential functionalities such as cryptocurrency wallets.
+- I developed and managed ivipBank, successfully scaling it to support over 2,000 active users
+- Data Management and Storage
+
+**Udemy Online Learning Platform (_December 2022 - present_)**
+
+- Designed and developed an extensive Udemy course titled "Build a Instagram Bot with Flask, Twilio, OpenAI, and ML Model," which has successfully engaged over 1,000 students”.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -52,4 +83,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Data Science Blog](https://medium.com/@joaquimcarlostimoteo1)
